@@ -72,8 +72,14 @@ RegisterNumber:212223100060
 ```
 
 ## Output:
-(https://github.com/VISHAL123456789V/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/161364099/bd2eb9e5-56fb-4ec4-a19f-706eb815b7d6)
-(https://github.com/VISHAL123456789V/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/161364099/df23720c-3d64-492e-9093-c3474cc7d56f)
+![Screenshot 2024-03-06 111043](https://github.com/VISHAL123456789V/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/161364099/3a9fd772-3a44-4c8e-9d06-534b2768cab7)
+![Screenshot 2024-03-06 112100](https://github.com/VISHAL123456789V/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/161364099/bf33ce11-a4d4-450a-8df6-7d2fe8ca4007)
+
+
+
+
+
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
